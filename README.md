@@ -1,2 +1,2 @@
 # thanks-scratch
-A page dedicated to thanking Scratch for all that it’s done for me.
+Well done, you've found this repository! This exists as sort of a memorial for Scratch as it has really been a rollercoaster for me.
