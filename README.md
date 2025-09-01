@@ -1,5 +1,6 @@
 # thanks-scratch
-Congrats! In one way or another, you've found this repository! This exists as sort of a memorial for Scratch as it has really been a lot to me.
+Congrats! In one way or another, you've found this! Welcome! This exists as sort of a memorial for Scratch as it's what sparked my passion for coding in the first place.<br/>
+Without it, I probably wouldn't have even become as good as coding as I am now.
 
 ## Part One - Discovering Scratch
 I came across Scratch sometime between 2019 and 2021. Prior to that, I used ScratchJr. Now, ~I didn't have an account at the time, but~<br/> 
