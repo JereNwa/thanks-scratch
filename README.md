@@ -29,4 +29,11 @@ _jen6C's userpage, as of August 30th, 2025._
 BONUS: The password for literally _every_ Scratch account at the time was `scratch`. Real bad. (Again, the accounts are inaccesible. You won't be able to hack.)
 
 ## Part Three - More Projects and Accounts
-My first project (which I later unshared and reshared) was called "Super Mario Bros." and it was released
+My first project (which I later unshared and reshared) was called "Super Mario Bros." and it was released on May 27, 2022. It was a remix of BirdNani's Super Mario Bros. On Scratch.
+
+![IMG_0726](https://github.com/user-attachments/assets/9d2a3361-b28e-4add-b7f4-32b3f7c39df8)
+_Super Mario Bros. by BirdNani (screenshot taken 30th August 2025)_
+
+I actually didn't change anything and acted like it was mine (I'm pretty sure that's against the Scratch Community Guidelines.). I even edited the copyright to replace BirdNani's username with mine.
+
+I shared it to my class and they were, to say the least, dumbfounded. they thought it was impossible to make Super Mario Bros. on Scratch. (FYI: It is possible. Check out TTTEfanSQB's project, [Super Mario Bros.](https://scratch.mit.edu/projects/425822460/))
